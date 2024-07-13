@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "/home/alex/ExpenseTracker/obj/Debug/net8.0/scopedcss/projectbundle/ExpenseTracker.bundle.scp.css",
+      "PackagePath": "staticwebassets/ExpenseTracker.bundle.scp.css"
+    },
+    {
+      "Id": "/home/alex/ExpenseTracker/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/alex/ExpenseTracker/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/alex/ExpenseTracker/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/alex/ExpenseTracker/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/alex/ExpenseTracker/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/alex/ExpenseTracker/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/alex/ExpenseTracker/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ExpenseTracker.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ExpenseTracker.props",
+      "PackagePath": "build\\ExpenseTracker.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ExpenseTracker.props",
+      "PackagePath": "buildMultiTargeting\\ExpenseTracker.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ExpenseTracker.props",
+      "PackagePath": "buildTransitive\\ExpenseTracker.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
